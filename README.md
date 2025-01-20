@@ -36,7 +36,7 @@ Click the link below to explore and download the **iPhone 14 Clay Mockup**:
 3. Replace the placeholder content with your design.
 4. Customize colors, backgrounds, and elements as needed.
 5. Save and export your final design presentation.
-6. 
+
 ![image](https://github.com/user-attachments/assets/45ebb9fb-b6ef-464a-ba4a-c05b8aa35c2c)
 
 ## Contribute
