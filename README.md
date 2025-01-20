@@ -6,7 +6,7 @@ Welcome to the **iPhone 14 Clay Mockup** repository! This repository is dedicate
 
 ## What is an iPhone 14 Clay Mockup?
 
-The **iPhone 14 Clay Mockup** is a high-quality digital resource designed to help creative professionals display their designs in a sleek and realistic way. This mockup provides a clean, minimalist clay style that enhances the focus on your content while maintaining a modern aesthetic.
+The [**iPhone 14 Clay Mockup**](https://www.mockupdaddy.com/download/iphone-14-clay-mockup) is a high-quality digital resource designed to help creative professionals display their designs in a sleek and realistic way. This mockup provides a clean, minimalist clay style that enhances the focus on your content while maintaining a modern aesthetic.
 
 ![image](https://github.com/user-attachments/assets/58d800f8-af52-4eba-ba02-6a4c3ac02e9b)
 
@@ -24,8 +24,6 @@ Using professional mockups can save you time, improve your design presentations,
 ## Download the iPhone 14 Clay Mockup
 
 Click the link below to explore and download the **iPhone 14 Clay Mockup**:
-
-[**iPhone 14 Clay Mockup**](https://www.mockupdaddy.com/download/iphone-14-clay-mockup)
 
 ## How to Use the iPhone 14 Clay Mockup
 
